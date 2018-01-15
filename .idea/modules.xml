@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySDKLib.iml" filepath="$PROJECT_DIR$/MySDKLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wdjavalib/wdjavalib.iml" filepath="$PROJECT_DIR$/wdjavalib/wdjavalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wdlibrary/wdlibrary.iml" filepath="$PROJECT_DIR$/wdlibrary/wdlibrary.iml" />
+    </modules>
+  </component>
+</project>
